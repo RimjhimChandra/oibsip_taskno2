@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Playfair+Display&display=swap');
+body{
+    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+}
+#name{
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2) ;
+    width: 100vw;
+}
+h1{
+    text-align: center;
+    background: transparent;
+    color: aliceblue;
+    margin-top: 30px;
+    margin-bottom: 90px;
+    font-family: 'Cinzel', serif;
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    letter-spacing: 6px;
+    text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;
+
+}
+ img{
+    width: 55vw;
+    background: transparent;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+}
+.line{
+    color: burlywood;
+    font-family: 'Cinzel', serif;
+    font-family: 'Playfair Display', serif;
+    text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;
+    border-right: 3px solid;
+    padding-left: 50pt;
+    padding-right: 50pt;
+    white-space: wrap;
+    overflow: hidden;
+    width: 100%;
+
+}
+
+#l1{
+    animation: 
+    typing 2s,
+    cursor 200000s step-end infinite alternate;
+    ;
+}
+#l2{
+    animation: 
+    typing 2s,
+    cursor 200000s step-end infinite alternate;
+    ;
+}
+#l3{
+    animation: 
+    typing 2s,
+    cursor 200000s step-end infinite alternate;
+    ;
+}
+#l4{
+    animation: 
+    typing 2s,
+    cursor 200000s step-end infinite alternate;
+    ;
+}
+#l5{
+    animation: 
+    typing 2s,
+    cursor 200000s step-end infinite alternate;
+    ;
+}
+#l6{
+    animation: 
+    typing 2s,
+    cursor 200000s step-end infinite alternate;
+    ;
+}
+#l7{
+    animation: 
+    typing 2s,
+    cursor 200000s step-end infinite alternate;
+    ;
+}
+#l8{
+    animation: 
+    typing 2s,
+    cursor 200000s step-end infinite alternate;
+    ;
+}
+#l9{
+    animation: 
+    typing 2s,
+    cursor 200000s step-end infinite alternate;
+    ;
+}
+@keyframes cursor {
+    50% { border-color: transparent;}
+}
+@keyframes typing {
+    from {
+        width: 0;
+    }
+}
